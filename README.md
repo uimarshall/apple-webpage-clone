@@ -16,7 +16,7 @@ A repository for the cloning of old apple webpage
 ## Live Demo
 
 ​
-[Live Demo Link](https://rawcdn.githack.com/uimarshall/apple-webpage-clone/bea229a450ab905b5447a26a714a9bf91948663c/index.html)
+[Live Demo Link](https://rawcdn.githack.com/uimarshall/apple-webpage-clone/f20230240c5bc4465985e1dacb8f8cee1aa31f19/index.html)
 ​
 ​
 
