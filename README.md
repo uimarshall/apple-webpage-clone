@@ -2,7 +2,7 @@
 
 A repository for the cloning of old apple webpage
 > ​
-> ![screenshot](./images/apple-clone.png)
+> ![screenshot](../images/apple-clone.png)
 > ​
 
 ## Built With
