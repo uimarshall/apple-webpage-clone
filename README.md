@@ -1,3 +1,4 @@
+
 # apple-webpage-clone
 A repository for the cloning of old apple webpage
 
@@ -66,4 +67,5 @@ Give a ⭐️ if you like this project!
 
 ​
 This project is [MIT](lic.url) licensed.
+
 
